@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Lionel Mbayu</h1>
-<h3 align="center">I'm a software developer based in Minneapolis, I have been immersed in learning software development for the past year and love everything about it.</h3>
+<h3 align="center">I'm a software engineer based in Minneapolis, I have been immersed in learning software development for the past year and love everything about it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lionel-mbayu&label=Profile%20views&color=0e75b6&style=flat" alt="lionel-mbayu" /> </p>
 
